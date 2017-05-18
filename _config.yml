@@ -4,18 +4,18 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner:Phil Liang 
+owner: Phil Liang 
 
 # Optional quote in the footer
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote
-  author: John Doe
+  quote: 面朝大海，春暖花开 
+  author: 海子
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
-title: Aliquam Theme
+title: Phils Blog 
 
 
 # Following needed for disqus integration
