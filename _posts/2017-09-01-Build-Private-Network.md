@@ -13,7 +13,7 @@ tags:
 闲话少叙，直入主题。根据一个下午google， 成功搭建了一个只有一个节点的以太坊私网，并且挖出了个人定制的ETH，还是挺有成就感的。当年比特币刚刚出来的时候，中本聪自己给自己印钱玩的时候，大概也是这种感觉吧。
 
 先看个结果吧，下面就是我的账户和账户余额
-
+```
 > Welcome to the Geth JavaScript console!
 > 
 > instance: Geth/v1.6.7-stable-ab5646c5/darwin-amd64/go1.7.1
@@ -23,14 +23,14 @@ tags:
 >  modules: admin:1.0 debug:1.0 eth:1.0 miner:1.0 net:1.0 personal:1.0 rpc:1.0 txpool:1.0 web3:1.0
 >  
 > 
->  \>  eth.accounts
+>  eth.accounts
 > 
->  \> ["0x2324bc069a60f756c52084f98075018332ffbab0"]
+> ["0x2324bc069a60f756c52084f98075018332ffbab0"]
 >  
->  \> eth.getBalance("0x2324bc069a60f756c52084f98075018332ffbab0")
+> eth.getBalance("0x2324bc069a60f756c52084f98075018332ffbab0")
 >    
->  \> 5.72e+21
-
+> 5.72e+21
+```
 总结一下，整个步骤包括以下几步：
 
 1. 安装geth
