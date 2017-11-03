@@ -2,10 +2,14 @@
 $golden-ratio: 1.618;
 
 // font families
-$font-family-open-sans-condensed: 'Open Sans Condensed', sans-serif;
-$font-family-open-sans: 'Open Sans', sans-serif;
-$font-family-lato-serif: 'Lato', sans-serif;
+$font-family-open-sans-condensed: "Microsoft YaHei", sans-serif;
+//$font-family-open-sans: 'Open Sans', sans-serif;
+//$font-family-open-sans: "Microsoft YaHei", "MicrosoftJhengHei", STHeiti, MingLiu, "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+$font-family-open-sans:  'KaiTi', serif;
+$font-family-lato-serif: "Microsoft YaHei", sans-serif;
 
+//$base-font-family: "Microsoft YaHei", "MicrosoftJhengHei", STHeiti, MingLiu, "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; // $helvetica;
+//$heading-font-family: "Microsoft YaHei", "MicrosoftJhengHei", "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
 
 /*************************************************************************
                       FONT-SIZE and  LINE-HEIGHT
@@ -14,7 +18,7 @@ $font-family-lato-serif: 'Lato', sans-serif;
 // device font size
 $f-s-mobile: 16px;
 $f-s-tablet: 18px;
-$f-s-desktop: 19px;
+$f-s-desktop: 16px;
 
 // set default font size to 100% of browser's font size
 $f-s-default: 1rem;
