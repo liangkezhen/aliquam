@@ -21,6 +21,9 @@ description: More information about me and this website.
 
 2015 年 - 2017 年就职于Juniper Network，从事防火墙产品平台软件开发工作，主要负责二层功能开发;
 
+## 学术论文：
+
+[一种基于相位敏感光时域反射计的多参量振动传感器](http://www.cnki.com.cn/Article/CJFDTotal-JJZZ201208025.htm)
 ## 发明专利：
 [分布式光纤传感器及信息解调方法](http://www.soopat.com/Patent/201210099835)
 
