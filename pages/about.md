@@ -30,9 +30,6 @@ description: More information about me and this website.
 ## 获得荣誉：
 [第八届上海市发明创造专利二等奖](http://sh.eastday.com/m/20161219/u1ai10172274.html)
 
-## 个人邮箱 
-
-liangkezhen2015@sina.com
 
 ## Contact form
 
