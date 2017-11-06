@@ -9,9 +9,10 @@ description: More information about me and this website.
 ---
 
 ### 个人简介 
-**梁可桢，男，**
 
-**IT 工作者，生于1986年, 本科毕业于浙江大学，硕士毕业于中科院，**
+**梁可桢，男，生于1986年**
+
+**IT 工作者，本科毕业于浙江大学，硕士毕业于中科院，**
 
 **2012 年 8 月参加工作，目前任职于Juniper Network**
 
