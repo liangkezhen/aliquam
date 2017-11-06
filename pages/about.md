@@ -8,11 +8,12 @@ description: More information about me and this website.
 
 ---
 
-**梁可桢，**
+### 个人简介 
+**梁可桢，男，**
 
-**IT 工作者，生于1986年, 浙江大学学士，中科院硕士，**
+**IT 工作者，生于1986年, 本科毕业于浙江大学，硕士毕业于中科院，**
 
-**目前任职于Juniper Network**
+**2012 年 8 月参加工作，目前任职于Juniper Network**
 
 ###   研究经历：
 [一种基于相位敏感光时域反射计的多参量振动传感器](http://www.cnki.com.cn/Article/CJFDTotal-JJZZ201208025.htm)
