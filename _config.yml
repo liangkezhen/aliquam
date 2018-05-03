@@ -45,7 +45,7 @@ contact_PK: 2ce3a5aacee7801b45bc631e482719ef
 ##########################################
 
 # Set maximum posts per page
-paginate: 5
+paginate: 20
 
 # Set permalink
 permalink: /:categories/:title
