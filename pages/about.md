@@ -11,15 +11,10 @@ description: More information about me and this website.
 ### 个人简介 
 
 Hi, stranger,thank you for your visiting.  
-
 This is a silence blog where I use to share things I learn from everyday life. 
-
 I‘m very lazy, but I'm trying to record the true life and display it to you. The true feelling about life, and the right understanding about technology.
-
 I hope you can find something useful, even a little would be great honour to me.  
-
 Life is meaningless at some point of view, but we try our best to work, to learn, to contribute.
-
 Even the little man should be respect.
 
 
