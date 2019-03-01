@@ -10,11 +10,19 @@ description: More information about me and this website.
 
 ### 个人简介 
 
-**梁可桢，男，生于1986年**
+Hi, stranger,thank you for your visiting.  
 
-**IT 工作者，本科毕业于浙江大学，硕士毕业于中科院，**
+This is a silence blog where I use to share things I learn from everyday life. 
 
-**2012 年 8 月参加工作，目前任职于Juniper Network**
+I‘m very lazy, but I'm trying to record the true life and display it to you. The true feelling about life, and the right understanding about technology.
+
+I hope you can find something useful, even a little would be great honour to me.  
+
+Life is meaningless at some point of view, but we try our best to work, to learn, to contribute.
+
+Even the little man should be respect.
+
+
 
 ###   研究经历：
 [一种基于相位敏感光时域反射计的多参量振动传感器](http://www.cnki.com.cn/Article/CJFDTotal-JJZZ201208025.htm)
