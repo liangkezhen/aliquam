@@ -8,18 +8,15 @@ description: More information about me and this website.
 
 ---
 
-### 个人简介 
-
 Hi, stranger,thank you for your visiting.  
 This is a silence blog where I use to share things I learn from everyday life. 
-I‘m very lazy, but I'm trying to record the true life and display it to you. The true feelling about life, and the right understanding about technology.
+I‘m lazy, but I'm trying to record the true life and display it to you. The true feelling about life, and my understanding about technology.
 I hope you can find something useful, even a little would be great honour to me.  
-Life is meaningless at some point of view, but we try our best to work, to learn, to contribute.
-Even the little man should be respect.
+Life is meaningless at some point of view, but we try our best to discover, to work, to learn, to contribute.
+Even ordinary pepole worth a wonderful life.
 
+###  Paper & Patent 
 
-
-###   研究经历：
 [一种基于相位敏感光时域反射计的多参量振动传感器](http://www.cnki.com.cn/Article/CJFDTotal-JJZZ201208025.htm)
 
 [分布式光纤传感器及信息解调方法](http://www.soopat.com/Patent/201210099835)
